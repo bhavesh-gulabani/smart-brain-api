@@ -1,5 +1,7 @@
 # Smart Brain
-A face detection web application : Back-end
+Back end for smart brain.<br> 
+Built using Node and Express.<br>
+Database used is PostgreSQL.<br>
 
 <h3>To view the project</h3>
 <ol>
@@ -7,4 +9,3 @@ A face detection web application : Back-end
   <li>Run <code>npm install</code> 
   <li>Run <code>npm start</code>
 </ol>
-
